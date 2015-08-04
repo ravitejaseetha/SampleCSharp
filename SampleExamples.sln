@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleExamples", "SampleExa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci1", "Fibonacci1\Fibonacci1.csproj", "{06DD36B7-6296-4786-9F4B-B7BF37038D4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{7B063812-4417-4DDB-A613-8D8CACC454B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{06DD36B7-6296-4786-9F4B-B7BF37038D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06DD36B7-6296-4786-9F4B-B7BF37038D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06DD36B7-6296-4786-9F4B-B7BF37038D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B063812-4417-4DDB-A613-8D8CACC454B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B063812-4417-4DDB-A613-8D8CACC454B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B063812-4417-4DDB-A613-8D8CACC454B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B063812-4417-4DDB-A613-8D8CACC454B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>7e218df2-45c0-4922-9560-706eda980baa</ProjectGuid>
+    <ProjectGuid>{7B063812-4417-4DDB-A613-8D8CACC454B6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Palindrome</RootNamespace>

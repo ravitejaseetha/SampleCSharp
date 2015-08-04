@@ -1,0 +1,6 @@
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\Palindrome\obj\Debug\Palindrome.pdb
