@@ -12,9 +12,9 @@ namespace PrimeNumbers
         {
             bool isPrime = true;
             Console.WriteLine("Prime Numbers from 1 to 100 :");
-            for (int i = 2; i < 100; i++)
+            for (int i = 2; i < 10; i++)
             {
-                for (int j = 2; j < 100; j++)
+                for (int j = 2; j < 10; j++)
                 {
                     if (i!=j && i % j == 0)
                     {
