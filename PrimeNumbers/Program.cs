@@ -12,6 +12,7 @@ namespace PrimeNumbers
         {
             bool isPrime = true;
             Console.WriteLine("Prime Numbers from 1 to 100 :");
+            Console.WriteLine("Ravi Local Branch");
             for (int i = 2; i < 10; i++)
             {
                 for (int j = 2; j < 10; j++)
