@@ -11,6 +11,7 @@ namespace PrimeNumbers
         static void Main(string[] args)
         {
             bool isPrime = true;
+            //prime print
             Console.WriteLine("Prime Numbers from 1 to 100 :");
             for (int i = 2; i < 10; i++)
             {
