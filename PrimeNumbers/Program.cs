@@ -11,6 +11,7 @@ namespace PrimeNumbers
         static void Main(string[] args)
         {
             bool isPrime = true;
+            Console.WriteLine("Second Branch");
             Console.WriteLine("Prime Numbers from 1 to 100 :");
             Console.WriteLine("Ravi Local Branch");
             for (int i = 2; i < 10; i++)
