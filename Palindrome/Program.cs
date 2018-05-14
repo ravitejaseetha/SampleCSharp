@@ -10,6 +10,7 @@ namespace Palindrome
     {
         static void Main(string[] args)
         {
+            //string s, rev = "";
             string s, rev = "";
             Console.WriteLine("Enter string");
             s = Console.ReadLine();
