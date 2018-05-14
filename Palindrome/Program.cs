@@ -12,7 +12,7 @@ namespace Palindrome
         {
             string ss, srev = "";
             string s, rev = "";
-            Console.WriteLine("Enter string");
+            Console.WriteLine("Enter string ");
             s = Console.ReadLine();
             for (int i = s.Length-1; i >=0; i--)
             {
