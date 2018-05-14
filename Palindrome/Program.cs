@@ -18,13 +18,9 @@ namespace Palindrome
                 rev += s[i].ToString();
             }
             if (rev == s)
-            {
                 Console.WriteLine("String is palindrome\nEntered string is {0} and reverse of the string is {1}",s,rev);
-            }
             else
-            {
                 Console.WriteLine("Entererd string is not a palindrome");
-            }
             Console.ReadKey();
         }
     }
