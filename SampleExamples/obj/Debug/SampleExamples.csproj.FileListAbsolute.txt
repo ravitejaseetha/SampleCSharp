@@ -4,3 +4,6 @@ c:\users\raviteja\documents\visual studio 2013\Projects\SampleExamples\SampleExa
 c:\users\raviteja\documents\visual studio 2013\Projects\SampleExamples\SampleExamples\obj\Debug\SampleExamples.exe
 c:\users\raviteja\documents\visual studio 2013\Projects\SampleExamples\SampleExamples\obj\Debug\SampleExamples.pdb
 C:\Users\Raviteja\Documents\Visual Studio 2013\Projects\SampleExamples\SampleExamples\obj\Debug\SampleExamples.csprojResolveAssemblyReference.cache
+E:\NewGit\SampleCSharp\SampleExamples\bin\Debug\SampleExamples.exe.config
+E:\NewGit\SampleCSharp\SampleExamples\obj\Debug\SampleExamples.exe
+E:\NewGit\SampleCSharp\SampleExamples\obj\Debug\SampleExamples.pdb
